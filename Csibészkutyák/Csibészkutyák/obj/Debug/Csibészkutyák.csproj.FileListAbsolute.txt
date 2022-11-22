@@ -1,0 +1,11 @@
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.csproj.AssemblyReference.cache
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.Form1.resources
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.Properties.Resources.resources
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.csproj.GenerateResource.cache
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.csproj.CoreCompileInputs.cache
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\bin\Debug\Csibészkutyák.exe.config
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\bin\Debug\Csibészkutyák.exe
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\bin\Debug\Csibészkutyák.pdb
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.exe
+C:\Users\Hengersor Diák\Documents\Rajnai Ádám\Csibészkutyák\Csibészkutyák\obj\Debug\Csibészkutyák.pdb
